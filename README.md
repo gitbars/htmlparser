@@ -1,3 +1,3 @@
-# htmlparser
+# StatApp
 
-Test app
+Test app for experiments
